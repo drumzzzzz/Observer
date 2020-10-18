@@ -7,7 +7,7 @@ using namespace std;
 
 #define MAX_COUNT 20
 
-// Abstract observer method
+// Abstract base observer method
 class Observer
 {
 public:
